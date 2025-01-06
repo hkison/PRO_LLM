@@ -26,8 +26,8 @@ Berechne die kürzesten Entfernungen zwischen allen Paaren von Knoten in einem g
 
 **Mögliche Ausgabe (Matrixform, jeweils eine Zeile pro Quellknoten):**  
 0 5 7 8  
-INF 0 2 5  
-INF INF 0 3  
-1 INF INF 0  
+INF 0 2 3  
+INF INF 0 1  
+INF INF INF 0  
 
 (Erläuterung: Von Knoten 1 nach 3 mit 1->2->3 sind es 7, nach 4 mit 1->2->3->4 sind es 8, etc.)  
