@@ -1,4 +1,4 @@
-**Prüfe, ob ein String ein Palindrom ist**
+### **Prüfe, ob ein String ein Palindrom ist**
 
 **Aufgabe:**
 
@@ -15,9 +15,11 @@ true oder false (kleingeschrieben).
 **Beispiel:**
 
 **Input:**
+
 racecar
 
 **Output:**
+
 true
 
 (Erläuterung: "racecar" ist vorwärts und rückwärts identisch.)

@@ -1,4 +1,4 @@
-**Verdopple jedes Element im Array**
+### **Verdopple jedes Element im Array**
 
 **Aufgabe:**
 
@@ -16,7 +16,11 @@ Eine Zeile mit n verdoppelten ganzen Zahlen, durch Leerzeichen getrennt.
 **Beispiel:**
 
 **Input:**
-4 1 2 3 4
+
+4
+
+1 2 3 4
 
 **Output:**
+
 2 4 6 8

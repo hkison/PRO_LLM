@@ -1,4 +1,4 @@
-**Zähle die Vokale in einem String**
+### **Zähle die Vokale in einem String**
 
 **Aufgabe:**
 
@@ -15,9 +15,11 @@ Eine ganze Zahl, die die Anzahl der Vokale im String angibt.
 **Beispiel:**
 
 **Input:**
+
 Hello World
 
 **Output:**
+
 3
 
 (Erläuterung: 'e', 'o', 'o' sind Vokale)
