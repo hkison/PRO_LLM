@@ -1,4 +1,5 @@
 **Zähle die Vokale in einem String**
+
 **Aufgabe:**
 Gegeben ein String, zähle die Anzahl der Vokale (a, e, i, o, u) darin. Groß-/Kleinschreibung egal.
 
