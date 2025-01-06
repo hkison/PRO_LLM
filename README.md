@@ -1,7 +1,5 @@
 # PRO_LLM
 
-Email-Regex-Aufgabe(Einfach)
+## Aufgaben der LLM Benchmark suite WiSe 24/25 Projekt 
 
-00.56.60 mit LLM
-
-10.57.11 ohne LLM
+Unterteilt in verschiedene difficulty
