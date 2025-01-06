@@ -17,7 +17,8 @@ Gegeben zwei sortierte Arrays, füge sie in ein einzelnes sortiertes Array zusam
 **Beispiel:**  
 
 **Input:**  
-3 3 1 3 5 2 4 6  
+3 3 1 6
+3 5 2 4 
 
 **Output:**  
 1 2 3 4 5 6  
